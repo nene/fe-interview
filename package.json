@@ -5,5 +5,8 @@
   "repository": "git@github.com:nene/fe-interview.git",
   "author": "Rene Saarsoo <nene@triin.net>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
 }
