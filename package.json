@@ -1,0 +1,9 @@
+{
+  "name": "fe-interview",
+  "version": "1.0.0",
+  "main": "filterByBlacklist.js",
+  "repository": "git@github.com:nene/fe-interview.git",
+  "author": "Rene Saarsoo <nene@triin.net>",
+  "license": "MIT",
+  "private": true
+}
