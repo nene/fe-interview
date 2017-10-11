@@ -13,6 +13,7 @@
     "mocha": "^4.0.1"
   },
   "scripts": {
-    "test-1": "mocha --require babel-register test/test-1.js"
+    "test-1": "mocha --require babel-register test/test-1.js",
+    "test-1-large": "mocha --require babel-register test/test-1-large.js"
   }
 }
